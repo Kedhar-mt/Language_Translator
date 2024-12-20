@@ -35,7 +35,8 @@ pip install SpeechRecognition googletrans==4.0.0-rc1 gTTS pyaudio setuptools
 
 How to Run
 Clone the repository or download the project files:
-git clone https://github.com/yourusername/Language-Translator.git
+git clone git clone https://github.com/Kedhar-mt/Language_Translator.git
+
 cd Language-Translator
 
 Run the Python script:
